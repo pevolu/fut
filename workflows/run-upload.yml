@@ -1,4 +1,4 @@
-name: Run SailPoint File Upload
+name: Run SailPoint File Upload.
 
 on:
   schedule:
