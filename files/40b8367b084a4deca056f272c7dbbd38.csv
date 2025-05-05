@@ -1,4 +1,5 @@
-
+id,name,givenName,familyName,e-mail,location,manager,groups
 Jerry.Bennett,Jerry.Bennett,Jerry,Bennett,Jerry.Bennett@sailpointdemo.com,US,,HQ Access
 Aaron.Nichols,Aaron.Nichols,Aaron,Nichols,Aaron.Nichols@sailpointdemo.com,US,,HQ Access
 Aaron.Nichols,Aaron.Nichols,Aaron,Nichols,Aaron.Nichols@sailpointdemo.com,US,,Badging System 1
+Jerry.Bennett,Jerry.Bennett,Jerry,Bennett,Jerry.Bennett@sailpointdemo.com,US,,Badging System 1
