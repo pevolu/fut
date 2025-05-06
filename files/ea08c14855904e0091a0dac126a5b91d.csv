@@ -1,0 +1,3 @@
+id,name,displayName,comments,created,endDate,lastLogon,modified,startDate,status,type,groups,costCenter,country,department,division,email,employeeNumber,familyName,givenName,honorificPrefix,honorificSuffix,locale,location,manager,middleName,organization,phoneNumber,preferredLanguage,preferredName,secondaryEmail,secondaryPhoneNumber,timezone,title,risk
+aaron.nichols,aaron,aaron.nichols,,,,,,,compromised,,,,,,,aaron.nichols@sailpointdemo.com,,,,,,,,,,,,,,,,,,high
+pedro.volu,pedro,pedro.volu,,,,,,,compromised,,,,,,,pedro.volu@sailpoint.com,,,,,,,,,,,,,,,,,,high
